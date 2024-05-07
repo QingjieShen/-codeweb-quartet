@@ -1,1 +1,3 @@
-In the end, "Sugar Rush Delights" had a website that was... well, functional, to say the least. Sure, it might have had a few too many rainbow gradients and dancing cupcakes, but it captured the whimsy and spirit of the bakery perfectly.
+In the end, "Sugar Rush Delights" had a website that was...
+ well, functional, 
+ to say the least. Sure, it might have had a few too many rainbow gradients and dancing cupcakes, but it captured the whimsy and spirit of the bakery perfectly.
