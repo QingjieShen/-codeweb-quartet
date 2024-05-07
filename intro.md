@@ -7,4 +7,5 @@ It all started one fateful day when they decided to embark on their first projec
 ## Choose one of the team member you want to know deeper
 
 1. [Clark](./clark.md)
-2. [Hashan](./hashan.md)
+2. [Faye](/faye.md)
+3. [Hashan](./hashan.md)
