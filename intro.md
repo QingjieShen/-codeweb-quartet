@@ -5,3 +5,5 @@ Once upon a time in a bustling city, there lived four aspiring web developers: C
 It all started one fateful day when they decided to embark on their first project: creating a website for a local bakery called "Sugar Rush Delights." Excited and full of enthusiasm, they gathered in Clark's cramped apartment, armed with laptops, snacks, and a questionable amount of caffeine.
 
 ## Choose one of the team member you want to know deeper
+
+1. [Clark](./clark.md)
