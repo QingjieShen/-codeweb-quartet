@@ -1,3 +1,4 @@
+## About Dulara
 Last but not least, there was Dulara, the "Database Diva." While her SQL skills were impeccable, her organizational methods left much to be desired. Files were scattered across multiple folders with names like "final_final_version2" and "bakery_website_real_real_this_time."
 
 Despite their constant struggles and setbacks, the CodeWeb Quartet persevered. They may not have been the most efficient team, but they shared countless laughs and unforgettable moments along the way.
